@@ -26,7 +26,7 @@ const theoryHTML = `
                     <div class="text">A treia lecție din seria <strong>Geschäft &amp; Einzelhandel</strong>! Azi cumpărăm <strong>online</strong>: înveți pașii unei comenzi (Bestellung), ce e coșul (Warenkorb) și costurile de transport (Versandkosten), cum urmărești un colet (Sendungsverfolgung) și ce faci când livrarea (Lieferung) întârzie. La final ascult un dialog real cu Herr Fischer de la serviciul de livrare.</div>
                 </div>
             </div>
-            <div class="theory-box" style="background:#fef3c7;border-color:#f59e0b;">
+            <div class="theory-box" style="background:#F5F0E8;border-color:#D4A574;">
                 <h4>✍️ Notă despre diacritice (ä, ö, ü, ß)</h4>
                 <p>Verificarea e blândă: poți scrie Umlaut-urile corect (<em>der Warenkorb, die Warenkörbe, die Bestätigung</em>) sau cu varianta de înlocuire (<em>Warenkoerbe, Bestaetigung</em>). Ambele sunt acceptate. La fel, punctul de la finalul propoziției e opțional.</p>
             </div>
@@ -47,7 +47,7 @@ const theoryHTML = `
                 </div>
                 <span class="lesson-audio-label">🔊 Ascultă secțiunea</span>
             </div>
-            <div class="theory-box" style="background:#fef3c7;border-color:#f59e0b;">
+            <div class="theory-box" style="background:#F5F0E8;border-color:#D4A574;">
                 <h4>🚨 Substantivele se învață ÎNTOTDEAUNA cu pluralul</h4>
                 <p>În germană pluralul e imprevizibil (-e, -en, Umlaut sau identic). De aceea fiecare substantiv apare aici la <strong>singular · plural</strong>. Învață-le împreună, ca pe o pereche.</p>
             </div>
@@ -88,7 +88,7 @@ const theoryHTML = `
                 </div>
                 <span class="lesson-audio-label">🔊 Ascultă secțiunea</span>
             </div>
-            <div class="theory-box" style="background:#f0fdf4;">
+            <div class="theory-box" style="background:#FBF7EF;">
                 <h4>💡 De la coș la ușă — pașii unei comenzi online</h4>
                 <p><strong>Warenkorb</strong> (coș) → <strong>Bestellung</strong> (comandă) → <strong>Bezahlung</strong> (plată) → <strong>Versand</strong> (expediere) → <strong>Sendungsverfolgung</strong> (urmărire) → <strong>Lieferung</strong> (livrare la ușă).</p>
             </div>
